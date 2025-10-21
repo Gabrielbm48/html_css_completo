@@ -1,6 +1,6 @@
 html {
   font-family: Helvetica;
-  background-color: #ddd;
+  background-color: #f1efef;
 }
 
 .container {
@@ -52,14 +52,14 @@ img {
 .beggining-container {
   padding: 25px 0;
   margin: 25px 0;
-  border-top: 1px dashed #ddd;
-  border-bottom: 1px dashed #ddd;
+  border-top: 1px dashed #f1efef;
+  border-bottom: 1px dashed #f1efef;
 }
 
 /* Quotes */
 
 .quotes-container {
-  background-color: #ddd;
+  background-color: #f1efef;
   padding: 30px;
 }
 
@@ -77,8 +77,8 @@ img {
 .curiosities-container {
   padding: 25px 0;
   margin: 25px 0;
-  border-top: 1px dashed #ddd;
-  border-bottom: 1px dashed #ddd;
+  border-top: 1px dashed #f1efef;
+  border-bottom: 1px dashed #f1efef;
 }
 
 .curiosities-container li {
